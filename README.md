@@ -15,7 +15,7 @@ MadPiper lets you create piped cli commands with a fluent interface.
 
 ## Installation
 
-MadPiper works with PHP 5.3, 5.4, 5.5., 5.6 and 7.0.
+MadPiper works with PHP 5.4, 5.5., 5.6 and 7.0.
 
 The package can be installed via composer:
 
